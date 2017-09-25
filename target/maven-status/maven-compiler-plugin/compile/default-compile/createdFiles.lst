@@ -1,0 +1,6 @@
+org/keybase/MerkleRoot.class
+org/keybase/JSONParser.class
+org/keybase/Sigs.class
+org/keybase/NotaryApp.class
+org/keybase/NotaryApp$1.class
+org/keybase/Status.class
